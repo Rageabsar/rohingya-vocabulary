@@ -31,6 +31,16 @@
       "image": "https://rageabsar.github.io/rohingya-vocabulary/images/003plein.png",
       "category": "Travel",
       "example": "We watched the aeroplane fly overhead."
+    },
+    {
+      "id": "word004",
+      "hanifi": "𐴕𐴞𐴐𐴝𐴕",
+      "meaning": "flag",
+      "transliteration": "nishan",
+      "audio": "https://rageabsar.github.io/rohingya-vocabulary/audio/word004nishan.mp3",
+      "image": "https://rageabsar.github.io/rohingya-vocabulary/images/004flag.png",
+      "category": "Objects",
+      "example": "The flag is flying in the wind."
     }
   ]
 }
