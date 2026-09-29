@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "updated_at": "2026-09-29T00:00:00Z",
   "words": [
     {
@@ -36,7 +36,7 @@
       "id": "word004",
       "hanifi": "𐴕𐴞𐴐𐴝𐴕",
       "meaning": "flag",
-      "transliteration": "nishan",
+      "transliteration": "boutha",
       "audio": "https://rageabsar.github.io/rohingya-vocabulary/audio/word004nishan.mp3",
       "image": "https://rageabsar.github.io/rohingya-vocabulary/images/004flag.png",
       "category": "Objects",
