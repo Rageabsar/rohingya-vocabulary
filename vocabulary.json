@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "updated_at": "2026-09-29T00:00:00Z",
+  "words": [
+    {
+      "id": "word001",
+      "hanifi": "𐴀𐴝𐴔𐴧",
+      "meaning": "mango",
+      "transliteration": "amm",
+      "audio": "https://YOUR-DOMAIN/audio/word001amm.mp3",
+      "image": "https://YOUR-DOMAIN/images/001mango.png",
+      "category": "Food",
+      "example": "I bought a fresh mango today."
+    },
+    {
+      "id": "word002",
+      "hanifi": "𐴁𐴞𐴓𐴝𐴞",
+      "meaning": "cat",
+      "transliteration": "bilai",
+      "audio": "https://YOUR-DOMAIN/audio/word002bilai.mp3",
+      "image": "https://YOUR-DOMAIN/images/002bilai.png",
+      "category": "Animals",
+      "example": "The cat is sleeping on the mat."
+    },
+    {
+      "id": "word003",
+      "hanifi": "𐴂𐴓𐴠𐴞𐴕",
+      "meaning": "aeroplane",
+      "transliteration": "plein",
+      "audio": "https://YOUR-DOMAIN/audio/word003plein.mp3",
+      "image": "https://YOUR-DOMAIN/images/003plein.png",
+      "category": "Travel",
+      "example": "We watched the aeroplane fly overhead."
+    }
+  ]
+}
