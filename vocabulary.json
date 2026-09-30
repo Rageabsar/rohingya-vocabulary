@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-29T00:00:00Z",
+  "updated_at": "2026-09-30T00:00:00Z",
   "words": [
     {
       "id": "word001",
@@ -41,6 +41,106 @@
       "image": "https://rageabsar.github.io/rohingya-vocabulary/images/004flag.png",
       "category": "Objects",
       "example": "The flag is flying in the wind."
+    },
+    {
+      "id": "word005",
+      "hanifi": "𐴑𐴟𐴞𐴤𐴌",
+      "meaning": "dog",
+      "transliteration": "kuinr",
+      "audio": "https://rageabsar.github.io/rohingya-vocabulary/audio/word005kuinr.mp3",
+      "image": "https://rageabsar.github.io/rohingya-vocabulary/images/005dog.png",
+      "category": "Animals",
+      "example": "The dog is barking loudly."
+    },
+    {
+      "id": "word006",
+      "hanifi": "𐴉𐴝𐴕𐴞",
+      "meaning": "water",
+      "transliteration": "fani",
+      "audio": "https://rageabsar.github.io/rohingya-vocabulary/audio/word006fani.mp3",
+      "image": "https://rageabsar.github.io/rohingya-vocabulary/images/006water.png",
+      "category": "Nature",
+      "example": "I need to drink some water."
+    },
+    {
+      "id": "word007",
+      "hanifi": "𐴁𐴠𐴓",
+      "meaning": "sun",
+      "transliteration": "bel",
+      "audio": "https://rageabsar.github.io/rohingya-vocabulary/audio/word007bel.mp3",
+      "image": "https://rageabsar.github.io/rohingya-vocabulary/images/007sun.png",
+      "category": "Nature",
+      "example": "The sun is shining brightly today."
+    },
+    {
+      "id": "word008",
+      "hanifi": "𐴏𐴝𐴕",
+      "meaning": "moon",
+      "transliteration": "san",
+      "audio": "https://rageabsar.github.io/rohingya-vocabulary/audio/word008san.mp3",
+      "image": "https://rageabsar.github.io/rohingya-vocabulary/images/008moon.png",
+      "category": "Nature",
+      "example": "The moon looks beautiful tonight."
+    },
+    {
+      "id": "word009",
+      "hanifi": "𐴒𐴝𐴏",
+      "meaning": "tree",
+      "transliteration": "gas",
+      "audio": "https://rageabsar.github.io/rohingya-vocabulary/audio/word009gas.mp3",
+      "image": "https://rageabsar.github.io/rohingya-vocabulary/images/009tree.png",
+      "category": "Nature",
+      "example": "The tree provides cooling shade."
+    },
+    {
+      "id": "word010",
+      "hanifi": "𐴔𐴝𐴏",
+      "meaning": "fish",
+      "transliteration": "mas",
+      "audio": "https://rageabsar.github.io/rohingya-vocabulary/audio/word010mas.mp3",
+      "image": "https://rageabsar.github.io/rohingya-vocabulary/images/010fish.png",
+      "category": "Food",
+      "example": "We caught a big fish in the river."
+    },
+    {
+      "id": "word011",
+      "hanifi": "𐴉𐴝𐴞𐴑",
+      "meaning": "bird",
+      "transliteration": "faik",
+      "audio": "https://rageabsar.github.io/rohingya-vocabulary/audio/word011faik.mp3",
+      "image": "https://rageabsar.github.io/rohingya-vocabulary/images/011bird.png",
+      "category": "Animals",
+      "example": "A small bird landed on the window."
+    },
+    {
+      "id": "word012",
+      "hanifi": "𐴒𐴡𐴌",
+      "meaning": "house",
+      "transliteration": "gor",
+      "audio": "https://rageabsar.github.io/rohingya-vocabulary/audio/word012gor.mp3",
+      "image": "https://rageabsar.github.io/rohingya-vocabulary/images/012house.png",
+      "category": "Places",
+      "example": "They painted their house blue."
+    },
+    {
+      "id": "word013",
+      "hanifi": "𐴀𐴡𐴞𐴕",
+      "meaning": "fire",
+      "transliteration": "oin",
+      "audio": "https://rageabsar.github.io/rohingya-vocabulary/audio/word013oin.mp3",
+      "image": "https://rageabsar.github.io/rohingya-vocabulary/images/013fire.png",
+      "category": "Nature",
+      "example": "We sat around the warm fire."
+    },
+    {
+      "id": "word014",
+      "hanifi": "𐴒𐴝𐴌𐴞",
+      "meaning": "car",
+      "transliteration": "gari",
+      "audio": "https://rageabsar.github.io/rohingya-vocabulary/audio/word014gari.mp3",
+      "image": "https://rageabsar.github.io/rohingya-vocabulary/images/014car.png",
+      "category": "Travel",
+      "example": "He bought a new car last week."
     }
   ]
 }
